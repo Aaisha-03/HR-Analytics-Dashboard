@@ -1,4 +1,6 @@
 # HR-Analytics-Dashboard
+<img width="939" height="470" alt="image" src="https://github.com/user-attachments/assets/55456510-aa8b-4b41-831a-e588ddfb806a" />
+
 This project is an HR Analytics Dashboard created using Power BI. 
 The dashboard provides a comprehensive overview of employee attrition trends and workforce insights, helping HR teams make data-driven decisions to reduce turnover and improve retention.
 Attrition by Education: Compares attrition percentage among different education backgrounds.
